@@ -11,3 +11,4 @@ end
 
 gem 'github-pages'
 gem 'tzinfo-data'
+gem 'csv'
